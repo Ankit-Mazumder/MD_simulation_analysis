@@ -97,7 +97,7 @@ pip install matplotlib seaborn
 3.  **Run the Training:**
 
     ```
-    python model_training.py
+    python test2.py
 
     ```
 
